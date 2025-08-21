@@ -1,4 +1,4 @@
-<img width="1023" height="654" alt="SCRATCH-1980-8-21-2025" src="https://github.com/user-attachments/assets/5de579b0-19a3-4c2e-818a-eed961f93b77" />
+<img width="640" height="480" alt="SCRATCH-1980-8-21-2025" src="https://github.com/user-attachments/assets/5de579b0-19a3-4c2e-818a-eed961f93b77" />
 
 No code *yet*
 
