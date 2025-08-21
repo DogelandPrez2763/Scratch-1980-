@@ -1,4 +1,4 @@
-<img width="320" height="240" alt="SCRATCH-SNES-8-17-2025" src="https://github.com/user-attachments/assets/59c11bda-2289-4c84-815b-7c3a790270c5" />
+<img width="1023" height="654" alt="SCRATCH-1980-8-21-2025" src="https://github.com/user-attachments/assets/5de579b0-19a3-4c2e-818a-eed961f93b77" />
 
 Self explanatory
 
