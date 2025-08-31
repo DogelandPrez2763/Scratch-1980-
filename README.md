@@ -8,7 +8,7 @@ No code *yet*
 
 # Checklist!
 
-- [] Code stuff
+- [ ] Code stuff
 - [X] Get hardware (Only controller and Tetris 2!)
-- [] Third option
-- [] Fourth option
+- [ ] Third option
+- [ ] Fourth option
