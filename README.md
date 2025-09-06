@@ -3,8 +3,8 @@
 No code *yet*
 
 # Table of contents:
-1. [Controls](controls!)
-2. [Checklist](checklist!)
+1. [Controls](#controls!)
+2. [Checklist](#checklist!)
 
 ## Controls!
 
