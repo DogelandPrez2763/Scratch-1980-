@@ -2,6 +2,10 @@
 
 No code *yet*
 
+# Table of contents:
+1. [Controls](controls!)
+2. [Checklist](checklist!)
+
 ## Controls!
 
 ![Nintendo-Super-NES-Controller](https://github.com/user-attachments/assets/0b36a2df-69d2-4968-b99b-ccfe17981389)
