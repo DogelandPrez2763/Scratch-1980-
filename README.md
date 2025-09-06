@@ -2,11 +2,11 @@
 
 No code *yet*
 
-# Controls!
+## Controls!
 
 ![Nintendo-Super-NES-Controller](https://github.com/user-attachments/assets/0b36a2df-69d2-4968-b99b-ccfe17981389)
 
-# Checklist!
+## Checklist!
 
 - [ ] Code stuff
 - [X] Get hardware (Only controller and Tetris 2!)
